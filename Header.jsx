@@ -5,7 +5,8 @@ import React from 'react'
 function Header() {
   return (
     <div>
-        <Image alt="Image" src={'/logo.jpeg'} width={150} height={100} />
+{/*         HEADER */}
+        <Image alt="Image" src={'/vercel.svg'} width={150} height={100} />
         <Button>Get Started</Button>
     </div>
   )
